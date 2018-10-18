@@ -148,9 +148,10 @@ Each of these answers provides concrete next steps for the instructor to take in
 > ## Feedback On Your Challenges
 > 
 > With these goals in mind, pair up with a partner to discuss the MCQ and faded example problems that you wrote
-> yesterday. Give each other specific, actionable feedback that follows our 2x2 framework. Use that feedback to 
-> make at least one modification to your exercise(s). Discuss in the Etherpad the change you made and how it will
-> help you get more useful information about your learners.
+> yesterday. Give each other specific, actionable feedback that follows our 2x2 framework, where content assesses 
+> the appropriate level of the question for the learners, and delivery assesses the options provided being sufficiently 
+> diagnostic or supportive. Use that feedback to make at least one modification to your exercise(s). 
+> Discuss in the Etherpad the change you made and how it will help you get more useful information about your learners.
 > 
 > This exercise and discussion should take about 15 minutes. 
 {: .challenge}
